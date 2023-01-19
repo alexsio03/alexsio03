@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexsio03 (Alex Warda)
-- 👀 I’m interested in skiing, the outdoors, skateboarding, music, and coding!
-- 🌱 I’m currently learning Object Oriented Programming in Java, and Systems Programming
-- 💞️ I’m 18, from the Bay Area, and studying at Cal Poly SLO
+- 👀 I’m interested in skiing, climbing, skateboarding, surfing, and coding!
+- 🌱 I’m currently learning Systems Architecture and Image Processing
+- 💞️ I’m 19, from the Bay Area, and studying at Cal Poly SLO
 - 📫 How to reach me: aawarda@calpoly.edu
