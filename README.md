@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexsio03 (Alex Warda)
-- 👀 I’m interested in skiing, climbing, skateboarding, fishing, and coding!
-- 🌱 I’m currently learning AI, Mobile Development, Software Testing, and Files & DBs
-- 💞️ I’m 21, from the Bay Area, and studying at Cal Poly SLO
-- 📫 How to reach me: aawarda@calpoly.edu
+- 👀 I’m interested in skiing, reading, skateboarding, fishing, and coding!
+- 🌱 I’m currently working on my Home Lab setting up k3s to combine my nodes
+- 💞️ I’m 21, from the Bay Area, and open to working in any locations
+- 📫 How to reach me: alexsio03@gmail.com
